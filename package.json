@@ -1,7 +1,7 @@
 {
   "name": "justme",
   "version": "0.1.0",
-  "description": "A cli to check if a site is really down or it's just you.",
+  "description": "A cli to check if a website is really down or it's just you.",
   "main": "src/index.js",
   "bin": {
     "justme": "bin/justme.js"

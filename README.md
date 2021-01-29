@@ -1,6 +1,6 @@
 <div align="center">
   <h1>JustMe</h1>
-  <p><i>A cli to check if a site is really down or it's just you.</i></p>
+  <p><i>A cli to check if a website is really down or it's just you.</i></p>
 </div><br>
 
 This package has been heavily inspired by [Down for Everyone or Just Me](https://downforeveryoneorjustme.com/) website and it uses [Is it up?](https://isitup.org/) API.
