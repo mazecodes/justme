@@ -1,8 +1,11 @@
 {
   "name": "justme",
-  "version": "1.0.0",
-  "description": "Check if a site is really down or it's just you.",
-  "main": "index.js",
+  "version": "0.1.0",
+  "description": "A cli to check if a site is really down or it's just you.",
+  "main": "src/index.js",
+  "bin": {
+    "justme": "bin/justme.js"
+  },
   "scripts": {
     "lint": "eslint \"./**/*.js\"",
     "lint:fix": "npm run liint -- --fix",
@@ -12,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/mazecodes/justme.git"
   },
-  "keywords": [],
+  "keywords": ["down", "isdown", "justme", "just", "isup", "website"],
   "author": "Maze Peterson",
   "license": "MIT",
   "bugs": {
