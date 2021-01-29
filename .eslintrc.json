@@ -4,6 +4,7 @@
   "rules": {
     "prettier/prettier": "error",
     "no-console": "off",
-    "consistent-return": "off"
+    "consistent-return": "off",
+    "node/shebang": "off"
   }
 }
