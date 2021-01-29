@@ -1,12 +1,16 @@
 <div align="center">
   <h1>JustMe</h1>
   <p><i>A cli to check if a site is really down or it's just you.</i></p>
-</div>
+</div><br>
 
 ## Table of Contents
 
 - [Install](#install)
 - [Usage](#usage)
+- [Contributing](#contributing)
+- [Author](#author)
+- [Support](#show-your-support)
+- [License](#license)
 
 ## Install
 
