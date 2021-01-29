@@ -30,6 +30,7 @@
     "prettier": "^2.2.1"
   },
   "dependencies": {
+    "is-valid-domain": "0.0.17",
     "node-fetch": "^2.6.1"
   }
 }
